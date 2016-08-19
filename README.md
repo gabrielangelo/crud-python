@@ -26,5 +26,8 @@ Obs5: O formato dos arquivos serão "users-nome-da-pessoa.py" e "menu-nome-da-pe
 
 Obs6: As senhas deverão estar criptografadas(O algoritmo de encriptação será facultativo, porém o seu uso será obrigatório).
 
-Obs7: as funções de login(e deslogar) deverão usar o conceito de sessão de usuário.
+Obs7: As funções de login(e deslogar) deverão usar o conceito de sessão de usuário.
+
+Obs8: O parâmetro da função de busca deverá obedecer ao conceito de **kwargs, onde poderá ser usado qualquer 
+      chave de dicionário na busca.
 
