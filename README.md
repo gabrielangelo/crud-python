@@ -18,7 +18,7 @@ Obs1:Para ter acesso ao menu de gerenciamento, uma autenticação seguida de um 
 
 Obs2: Os dados de usuário consistirão em email, username e password.
 
-Obs3: Os dados de autentição podem ser facultativos(poderá ser email ou username).
+Obs3: Os dados de autenticação podem ser facultativos(poderá ser email ou username).
 
 Obs4: os arquivos deverão ser enviados para este repositório até as 23:59 do dia 21/08/2016
 
