@@ -1,7 +1,7 @@
 #acens-python
 
 #tarefa 1
-  O arquivo users.py será uma biblioteca para gerenciamento de usuários(CRUD). A biblioteca não está concluida, estando faltando as funções de criar usuário,alterar,remover,buscar,autenticar,login e deslogar. O exercício consistirá em codar essas duas funções usando princípios e bibliotecas mostradas no decorrer do curso até aqui.
+  O arquivo users.py será uma biblioteca para gerenciamento de usuários(CRUD). A biblioteca não está concluida, estando faltando as funções de criar usuário,alterar,remover,buscar,autenticar,login e deslogar. O exercício consistirá em codar as funções usando princípios e bibliotecas mostradas no decorrer do curso até aqui.
 
 #tarefa 2
   Construir os menus no arquivo menu.py com as devidas funções importadas do módulo users.
